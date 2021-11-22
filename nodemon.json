@@ -1,0 +1,5 @@
+{
+  "env": {
+    "DATABASE": "mongodb://localhost/expres-todo"
+  }
+}
